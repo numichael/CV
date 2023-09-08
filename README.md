@@ -1,1 +1,1 @@
-A simple CV built with React
+Working React App
